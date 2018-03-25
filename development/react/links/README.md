@@ -1,5 +1,6 @@
 ## Links
 #### React
+* [Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
 * [Common anti-patterns](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
   * [Babel plugin to auto-bind functions](https://babeljs.io/docs/plugins/transform-class-properties) (**No more binding in the constructor!**)
 #### Redux
