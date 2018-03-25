@@ -5,4 +5,9 @@ Repository used to manage anything of interest to me.
 [Development](./development/README.md)
 
 ## Todo
-[React-Videos](./development/react/todo/videos/README.md)
+### React
+* [Links](./development/react/todo/links/README.md)
+* [Videos](./development/react/todo/videos/README.md)
+
+### Javascript
+* [Links](./development/javascript/todo/links/README.md)
