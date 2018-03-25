@@ -1,6 +1,8 @@
 ## Links
 #### React
+* [React and Redux links](https://github.com/markerikson/react-redux-links) - in depth list of links for all react redux topics
 * [Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
+* [React lifecycle](https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459)
 * [React Enlightenment](https://www.reactenlightenment.com/)
 * [Common anti-patterns](https://codeburst.io/how-to-not-react-common-anti-patterns-and-gotchas-in-react-40141fe0dcd)
   * [Babel plugin to auto-bind functions](https://babeljs.io/docs/plugins/transform-class-properties) (**No more binding in the constructor!**)
