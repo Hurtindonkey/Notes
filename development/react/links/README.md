@@ -12,3 +12,4 @@
 #### Modules
 * [why-did-you-update](https://github.com/maicki/why-did-you-update) - investigate unnecessary rerendering
 * [webpack-dashboard](https://www.npmjs.com/package/webpack-dashboard) - styled dev server 
+* [react-testng-library](https://github.com/kentcdodds/react-testing-library)
