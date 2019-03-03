@@ -1,5 +1,6 @@
 ## Links
 #### React
+* [How to React](https://medium.com/@kentcdodds/how-to-react-%EF%B8%8F-9e87f48414d2) - path for learning react from scratch
 * [React and Redux links](https://github.com/markerikson/react-redux-links) - in depth list of links for all react redux topics
 * [React Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/frontend/react.js)
 * [React setState Cheatsheet](https://levelup.gitconnected.com/react-cheatsheet-this-setstate-8bc12c5f40f5?ref=hn)
