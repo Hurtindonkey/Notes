@@ -14,3 +14,4 @@
 ## Tutorial
 ---
 * [React and AWS](https://www.pmbanugo.me/blog/2019-01-07-going-serverless-with-react-and-aws-amplify-development-environment-set-up/)
+* [React 16 Lifecycle methods](https://blog.logrocket.com/the-new-react-lifecycle-methods-in-plain-approachable-language-61a2105859f3)
