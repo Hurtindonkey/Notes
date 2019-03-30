@@ -6,3 +6,6 @@
 
 # Docker
 * [5 step tutorial](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
+
+# VS Code
+* [React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
