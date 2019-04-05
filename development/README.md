@@ -1,5 +1,8 @@
 # Dev
 * [Javascript](./javascript/README.md)
+  * [General]
+  * [Help]
+  * [Repositories]
 * [React](./react/README.md)
 
 # General
