@@ -4,6 +4,9 @@
   * [Help](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#help)
   * [Repositories](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#repositories)
 * [React](./react/README.md)
+  * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general-2)
+  * [Redux](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#redux)
+  * [Modules](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#modules)
 
 # General
 * [DevHints.io](https://devhints.io/)
