@@ -1,5 +1,5 @@
 # Dev
-* [Javascript](./javascript/README.md)
+* [Javascript](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#javascript)
   * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general)
   * [Help](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#help)
   * [Repositories](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#repositories)
