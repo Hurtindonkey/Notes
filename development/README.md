@@ -10,6 +10,7 @@
   * [Redux](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#redux)
   * [Modules](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#modules)
 * [VS Code](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#vs-code)
+* [Webpack](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#webpack)
 
 # General
 * [DevHints.io](https://devhints.io/)
