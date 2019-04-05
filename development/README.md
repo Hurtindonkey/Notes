@@ -1,17 +1,25 @@
+* [AWS](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#aws)
+* [Docker](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#docker)
+* [Git](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#git)
 * [Javascript](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#javascript)
-  * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general)
+  * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general-1)
   * [Help](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#help)
   * [Repositories](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#repositories)
-* [React](./react/README.md)
+* [React](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#react)
   * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general-2)
   * [Redux](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#redux)
   * [Modules](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#modules)
+* [VS Code](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#vs-code)
 
 # General
 * [DevHints.io](https://devhints.io/)
 * [Awesome cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 * [front-end developer guide](https://frontendmasters.com/books/front-end-handbook/2018/)
 * [Static Documentation](https://github.com/lord/slate)
+
+# AWS
+* [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english)
+* [Journey to AWS certification](https://dev.to/helenanders26/the-journey-to-aws-certification-1bnn)
 
 # Docker
 * [5 step tutorial](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
