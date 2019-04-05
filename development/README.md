@@ -1,8 +1,8 @@
 # Dev
 * [Javascript](./javascript/README.md)
-  * [General]
-  * [Help]
-  * [Repositories]
+  * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general)
+  * [Help](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#help)
+  * [Repositories](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#repositories)
 * [React](./react/README.md)
 
 # General
