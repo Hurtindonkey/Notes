@@ -32,7 +32,7 @@
 
 # Math
 * [Mathigon](https://mathigon.org/)
------
+
 # VS Code
 * [React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
 
