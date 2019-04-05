@@ -81,4 +81,7 @@
 # VS Code
 * [React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
 
+# Webpack
+* [Webpack basics](https://dev.to/kayis/webpack-basics)
+
 
