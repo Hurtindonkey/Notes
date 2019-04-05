@@ -16,6 +16,9 @@
 # Docker
 * [5 step tutorial](https://dev.to/softchris/5-part-docker-series-beginner-to-master-3m1b)
 
+# Git
+* [git-rebase](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
+
 # Javascript
 ## General
 * [People who hate Javascript](https://zachholman.com/posts/javacript-haters)
