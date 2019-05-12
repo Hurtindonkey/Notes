@@ -7,6 +7,7 @@
   * [Repositories](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#repositories)
 * [React](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#react)
   * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general-2)
+  * [Hooks](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#hooks)
   * [Redux](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#redux)
   * [Modules](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#modules)
 * [VS Code](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#vs-code)
@@ -77,9 +78,15 @@
 * [React 16 Time slicing](https://auth0.com/blog/time-slice-suspense-react16/?utm_campaign=React%2BNewsletter&utm_medium=rss&utm_source=React_Newsletter_109)
 * [React 16.3 Context Links](https://github.com/diegohaz/awesome-react-context)
 * [Progress Web App in React](https://dev.to/changoman/progressive-web-apps-with-react--preactjs-401m)
-* [Hooks](https://dev.to/vcarl/everything-you-need-to-know-about-react-hooks-doh)
 * [React and AWS](https://www.pmbanugo.me/blog/2019-01-07-going-serverless-with-react-and-aws-amplify-development-environment-set-up/)
 * [React 16 Lifecycle methods](https://blog.logrocket.com/the-new-react-lifecycle-methods-in-plain-approachable-language-61a2105859f3)
+
+## Hooks
+* [Intro to React Hooks](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
+* [Hooks](https://dev.to/vcarl/everything-you-need-to-know-about-react-hooks-doh)
+* [Fun with Hooks](https://www.youtube.com/watch?v=1jWS7cCuUXw)
+* [Always useMemo](https://kentcdodds.com/blog/always-use-memo-your-context-value)
+* [Why I love useReducer](https://hswolff.com/blog/why-i-love-usereducer/)
 
 ## Redux
 * [redux-usage-report](https://medium.com/about-codecademy/keep-your-large-redux-application-in-check-with-redux-usage-report-e2e4f31bb86f) - analyze when/where slices of the redux store are being used
