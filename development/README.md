@@ -111,5 +111,6 @@
 
 # Webpack
 * [Webpack basics](https://dev.to/kayis/webpack-basics)
+* [Webpack Configuration intro](https://www.youtube.com/watch?v=V9dZ8dHwX50)
 
 
