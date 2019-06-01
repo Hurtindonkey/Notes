@@ -56,6 +56,7 @@
 * [33-JS-Concepts](https://github.com/leonardomso/33-js-concepts)
 * [Clean-Code](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Javascript style guide](https://github.com/airbnb/javascript)
+* [JSON Query](https://github.com/nire0510/jsoq)
 
 # Math
 * [Mathigon](https://mathigon.org/)
