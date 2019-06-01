@@ -33,6 +33,7 @@
 
 # GraphQL
 * [GraphQL Course for React Developers](https://learn.hasura.io/graphql/react/introduction)
+* [GraphQL Client for React](https://github.com/FormidableLabs/urql)
 
 # Javascript
 ## General
