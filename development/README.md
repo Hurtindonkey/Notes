@@ -1,6 +1,7 @@
 * [AWS](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#aws)
 * [Docker](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#docker)
 * [Git](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#git)
+* [GraphQL](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#graphql)
 * [Javascript](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#javascript)
   * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general-1)
   * [Help](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#help)
@@ -29,6 +30,9 @@
 
 # Git
 * [git-rebase](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
+
+# GraphQL
+* [GraphQL Course for React Developers](https://learn.hasura.io/graphql/react/introduction)
 
 # Javascript
 ## General
