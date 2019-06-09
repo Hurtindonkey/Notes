@@ -95,7 +95,8 @@
 * [Always useMemo](https://kentcdodds.com/blog/always-use-memo-your-context-value)
 * [Why I love useReducer](https://hswolff.com/blog/why-i-love-usereducer/)
 * [Live Chat App](https://www.youtube.com/watch?v=hiiaHyhhwBU)
-* [Kent C Dodds React Primer](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
+* [Kent C Dodds React Hooks and Suspence] (https://egghead.io/playlists/react-hooks-and-suspense-650307f2)
+* [Kent C Dodds Simplifying Apps w React Hooks](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
 * [When to useCallback / useMemp](https://kentcdodds.com/blog/usememo-and-usecallback)
 
 ## Redux
