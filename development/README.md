@@ -111,6 +111,7 @@
 
 # Tools
 * [Dependabot](https://dependabot.com/) - Automated dependency updates
+* [Flash cards](https://mochi.cards/) - Spaced reptition flash cards
 
 # VS Code
 * [React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
