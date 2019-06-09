@@ -96,6 +96,7 @@
 * [Why I love useReducer](https://hswolff.com/blog/why-i-love-usereducer/)
 * [Live Chat App](https://www.youtube.com/watch?v=hiiaHyhhwBU)
 * [Kent C Dodds React Primer](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
+* [When to useCallback / useMemp](https://kentcdodds.com/blog/usememo-and-usecallback)
 
 ## Redux
 * [redux-usage-report](https://medium.com/about-codecademy/keep-your-large-redux-application-in-check-with-redux-usage-report-e2e4f31bb86f) - analyze when/where slices of the redux store are being used
