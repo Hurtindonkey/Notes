@@ -11,6 +11,7 @@
   * [Hooks](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#hooks)
   * [Redux](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#redux)
   * [Modules](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#modules)
+* [Tools](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#tools)
 * [VS Code](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#vs-code)
 * [Webpack](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#webpack)
 
@@ -30,6 +31,7 @@
 
 # Git
 * [git-rebase](https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had)
+* [git concepts](https://riedmann.dev/2019/06/02/GitGud.html)
 
 # GraphQL
 * [GraphQL Course for React Developers](https://learn.hasura.io/graphql/react/introduction)
@@ -106,6 +108,9 @@
 
 ## Tests
 * [Make Tests Resilient To Change](https://kentcdodds.com/blog/making-your-ui-tests-resilient-to-change) - using 'data' attributes
+
+# Tools
+* [Dependabot](https://dependabot.com/) - Automated dependency updates
 
 # VS Code
 * [React Refactor](https://marketplace.visualstudio.com/items?itemName=planbcoding.vscode-react-refactor)
