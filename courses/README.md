@@ -1,2 +1,2 @@
-* [Dockers and Kubernetes](https://github.com/Hurtindonkey/Notes/courses/dockerkube/README.md)
+* [Dockers and Kubernetes](https://github.com/Hurtindonkey/Notes/tree/master/courses/dockerkube)
 * 
