@@ -1,3 +1,2 @@
-
-# Dockers and Kubernetes - Stephen Grider
+* [Dockers and Kubernetes](https://github.com/Hurtindonkey/Notes/courses/dockerkube/README.md)
 * 
