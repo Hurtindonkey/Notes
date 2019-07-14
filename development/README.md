@@ -1,4 +1,5 @@
 * [AWS](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#aws)
+* [Data Science](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#data-science)
 * [Docker](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#docker)
 * [Git](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#git)
 * [GraphQL](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#graphql)
@@ -21,6 +22,9 @@
 * [front-end developer guide](https://frontendmasters.com/books/front-end-handbook/2018/)
 * [Static Documentation](https://github.com/lord/slate)
 * [Illustrated Dev](https://illustrated.dev)
+
+# Data Science
+* [Kaggle](https://www.kaggle.com)
 
 # AWS
 * [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english)
