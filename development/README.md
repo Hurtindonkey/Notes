@@ -26,6 +26,7 @@
 # Data Science
 * [Kaggle](https://www.kaggle.com)
 * [Kaggle Tutorials](https://www.kaggle.com/getting-started/45536)
+* [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
 
 # AWS
 * [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english)
