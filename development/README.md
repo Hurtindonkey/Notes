@@ -25,6 +25,7 @@
 
 # Data Science
 * [Kaggle](https://www.kaggle.com)
+* [Kaggle Tutorials](https://www.kaggle.com/getting-started/45536)
 
 # AWS
 * [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english)
