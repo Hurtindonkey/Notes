@@ -101,10 +101,10 @@
 * [Always useMemo](https://kentcdodds.com/blog/always-use-memo-your-context-value)
 * [Why I love useReducer](https://hswolff.com/blog/why-i-love-usereducer/)
 * [Live Chat App](https://www.youtube.com/watch?v=hiiaHyhhwBU)
-* [Kent C Dodds React Hooks and Suspence] (https://egghead.io/playlists/react-hooks-and-suspense-650307f2)
+* [Kent C Dodds React Hooks and Suspence](https://egghead.io/playlists/react-hooks-and-suspense-650307f2)
 * [Kent C Dodds Simplifying Apps w React Hooks ($$)](https://egghead.io/courses/simplify-react-apps-with-react-hooks)
 * [When to useCallback / useMemo](https://kentcdodds.com/blog/usememo-and-usecallback)
-* [Jest / React Testing Library Hooks Test] (https://dev.to/rahmanfadhil/a-brief-guide-to-test-react-components-with-hooks-5hg2)
+* [Jest / React Testing Library Hooks Test](https://dev.to/rahmanfadhil/a-brief-guide-to-test-react-components-with-hooks-5hg2)
 
 ## Redux
 * [redux-usage-report](https://medium.com/about-codecademy/keep-your-large-redux-application-in-check-with-redux-usage-report-e2e4f31bb86f) - analyze when/where slices of the redux store are being used
