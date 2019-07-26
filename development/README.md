@@ -27,6 +27,7 @@
 * [Kaggle](https://www.kaggle.com)
 * [Kaggle Tutorials](https://www.kaggle.com/getting-started/45536)
 * [Think Stats](https://greenteapress.com/wp/think-stats-2e/)
+* [Data Science at the New York Times](https://blog.dominodatalab.com/data-science-at-the-new-york-times/)
 
 # AWS
 * [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english)
