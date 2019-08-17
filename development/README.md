@@ -31,6 +31,8 @@
 * [Machine Learning for Beginners](https://victorzhou.com/blog/intro-to-neural-networks/)
 * [Intro to Recurrent Neural Networks](https://victorzhou.com/blog/intro-to-rnns/)
 * [K-d Tree example](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
+* [Neural Networks Primer](https://dev.to/nestedsoftware/neural-networks-primer-374i)
+* [Pytorch Hello World](https://dev.to/nestedsoftware/pytorch-hello-world-37mo)
 
 
 # AWS
