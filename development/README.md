@@ -103,6 +103,7 @@
 * [Progress Web App in React](https://dev.to/changoman/progressive-web-apps-with-react--preactjs-401m)
 * [React and AWS](https://www.pmbanugo.me/blog/2019-01-07-going-serverless-with-react-and-aws-amplify-development-environment-set-up/)
 * [React 16 Lifecycle methods](https://blog.logrocket.com/the-new-react-lifecycle-methods-in-plain-approachable-language-61a2105859f3)
+* [Dynamic Charts](https://dsternlicht.github.io/react-dynamic-charts/)
 
 ## Hooks
 * [Intro to React Hooks](https://developers.facebook.com/videos/2019/intro-to-react-hooks/)
