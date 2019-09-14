@@ -33,6 +33,7 @@
 * [K-d Tree example](https://www.youtube.com/watch?v=Y4ZgLlDfKDg)
 * [Neural Networks Primer](https://dev.to/nestedsoftware/neural-networks-primer-374i)
 * [Pytorch Hello World](https://dev.to/nestedsoftware/pytorch-hello-world-37mo)
+* [Fonts in ggplot](http://t-redactyl.io/blog/2016/01/creating-plots-in-r-using-ggplot2-part-4-stacked-bar-plots.html)
 
 
 # AWS
