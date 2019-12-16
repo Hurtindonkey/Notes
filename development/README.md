@@ -38,6 +38,7 @@
 * [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/index.html)
 * [Basic Machine Learning in Javascript](https://github.com/trekhleb/nano-neuron)
 * [Machine Learning Design](https://github.com/chiphuyen/machine-learning-systems-design/blob/master/build/build1/consolidated.pdf)
+* [Rough Viz](https://github.com/jwilber/roughViz)
 
 
 # AWS
