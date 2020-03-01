@@ -7,6 +7,7 @@
   * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general-1)
   * [Help](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#help)
   * [Repositories](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#repositories)
+* [R](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#R)
 * [React](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#react)
   * [General](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#general-2)
   * [Hooks](https://github.com/Hurtindonkey/Notes/blob/master/development/README.md#hooks)
@@ -147,4 +148,6 @@
 * [Webpack basics](https://dev.to/kayis/webpack-basics)
 * [Webpack Configuration intro](https://www.youtube.com/watch?v=V9dZ8dHwX50)
 
+# R
+* [patchwork](https://patchwork.data-imaginist.com/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_273) - combine multiple ggplots into the same graphic
 
